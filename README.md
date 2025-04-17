@@ -12,6 +12,6 @@ My personal page: https://theinbal.github.io/
 
 
 
-<img src="./InbalAvatar.png" width="150" height="150" />
+<img src="./InbalAvatar.png" width="170" height="170" />
 
 
