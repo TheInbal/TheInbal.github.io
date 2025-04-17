@@ -11,5 +11,6 @@ My personal page: https://theinbal.github.io/
 
 
 ![picture](./InbalAvatar.png)
+<img src="./mypic.png" width="100" height="100" />
 
 
